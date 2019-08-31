@@ -19,7 +19,7 @@ Pokemon My Ass
 Pokemon Snakewood
 
 
-# How Can I export a save from a GBA repro cartridge ?
+## How Can I export a save from a GBA botleg/repro cartridge ?
 
 You can do so by opening the rom with the emulator called VBA (Visual Boy Advance), once the game is started a .sav file will be created.
 Note that it's possible that some botleg Roms won't work correctly on VBA (corrupted save).
