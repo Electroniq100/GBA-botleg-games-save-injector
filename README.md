@@ -7,16 +7,16 @@ This won't work on a downloaded or dumped ROM from an original cartridge, for no
 
 Only a limited repro game list is available for now :
 
-Pokemon Emerald GBA
-Pokemon Fire Red GBA
-Pokemon XY GBA
-Pokemon Leaf Green GBA
-Pokemon Ruby GBA
-Pokemon Sapphire GBA 
-Zelda the Minish Cap
-Pokemon Glazed
-Pokemon My Ass
-Pokemon Snakewood
+* Pokemon Emerald GBA
+* Pokemon Fire Red GBA
+* Pokemon XY GBA
+* Pokemon Leaf Green GBA
+* Pokemon Ruby GBA
+* Pokemon Sapphire GBA 
+* Zelda the Minish Cap
+* Pokemon Glazed
+* Pokemon My Ass
+* Pokemon Snakewood
 
 
 ## How Can I export a save from a GBA botleg/repro cartridge ?
