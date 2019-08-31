@@ -5,7 +5,7 @@ This software is able to inject a GBA save file into a botleg/repro ROM game tha
 This won't work on a downloaded or dumped ROM from an original cartridge, for now there isn't any batteryless patch available out there.
 
 
-Only a limited repro game list is available for now :
+Only a limited repro ROM's are available for now :
 
 * Pokemon Emerald GBA
 * Pokemon Fire Red GBA
